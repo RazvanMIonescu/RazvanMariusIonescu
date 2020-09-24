@@ -1,0 +1,41 @@
+h1 {
+    color: green
+}
+
+h2 {
+    color: blue
+}
+
+h3 {
+    color: green
+}
+
+* {
+    background-color: rgb(red, rgb(153, 142, 93), blue);
+}
+
+p{
+    margin: 50px;
+    border: greenyellow;
+    border-style: solid;
+    padding: 50px;
+    text-align: center;
+    background-color: gainsboro;
+}
+
+body {
+
+    background-image: url("images/lighteffectbackground.jpg");
+}
+
+
+#para1 {
+    color: rgb(138, 126, 21);
+    font-size: 40px;
+    }
+
+
+
+    .large {
+        font-size: 50px;
+    }
